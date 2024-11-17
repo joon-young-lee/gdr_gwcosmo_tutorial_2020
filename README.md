@@ -1,4 +1,4 @@
-# Cosmologu project to determine the Hubble constant using GW and Bayesian statistics.
+# Cosmologu project to determine the Hubble constant using GW and Bayesian statistics
 
 # GWcosmo tutorial
 
