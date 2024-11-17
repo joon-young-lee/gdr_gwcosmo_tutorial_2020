@@ -1,3 +1,5 @@
+# Cosmologu project to determine the Hubble constant using GW and Bayesian statistics.
+
 # GWcosmo tutorial
 
 This is a public repository containing the tutorial for using GWcosmo. This presentation is given at the [GdR meeting](https://indico.ijclab.in2p3.fr/event/6452/overview). Please follow the next steps to start the tutorial.
