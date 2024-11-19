@@ -173,7 +173,7 @@ class DetectionProbability(object):
 
         Parameters
         ----------
-        m1,m2 : float
+        m1, m2 : float
             source rest frame masses in kg
 
         Returns
@@ -188,7 +188,7 @@ class DetectionProbability(object):
 
         Parameters
         ----------
-        m1,m2 : float
+        m1, m2 : float
             source rest frame masses in kg
         z : float
             redshift (default=0)
