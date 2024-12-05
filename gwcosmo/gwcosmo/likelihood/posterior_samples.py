@@ -179,7 +179,7 @@ class posterior_samples(object):
         # Re-weight
         weights = new_prior.joint_prob(mass_1_source,mass_2_source)/self.jacobian_times_prior(redshift,H0)
         norm = np.sum(weights)
-        return gaussian_kde(redshift,weights=weights), norm
+        return gaussian_kde(redshift, weights=weights), norm
 
     def marginalized_redshift(self, H0):
         """
